@@ -1,0 +1,38 @@
+{
+  "name": "is-io",
+  "version": "1.0.0",
+  "description": "Check if the runtime is io.js instead of Node.js",
+  "license": "MIT",
+  "repository": "sindresorhus/is-io",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "io",
+    "iojs",
+    "io.js",
+    "node",
+    "nodejs",
+    "node.js",
+    "is",
+    "detect",
+    "check",
+    "runtime",
+    "process",
+    "execpath"
+  ],
+  "devDependencies": {
+    "ava": "0.0.4"
+  }
+}
