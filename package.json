@@ -1,6 +1,6 @@
 {
   "name": "is-io",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if the runtime is io.js instead of Node.js",
   "license": "MIT",
   "repository": "sindresorhus/is-io",
