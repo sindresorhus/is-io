@@ -1,9 +1,7 @@
-'use strict';
-var test = require('ava');
-var isIo = require('./');
+import test from 'ava';
+import m from './';
 
-test(function (t) {
-	console.log('Is io.js?', isIo);
-	t.assert(typeof isIo === 'boolean');
-	t.end();
+test(t => {
+	console.log('Is io.js?', m);
+	t.is(typeof m, 'boolean');
 });
