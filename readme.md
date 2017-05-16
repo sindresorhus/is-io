@@ -13,16 +13,16 @@ $ npm install --save is-io
 ## Usage
 
 ```js
-var isIo = require('is-io');
+const isIo = require('is-io');
 
 if (isIo) {
-	// do something custom in io.js
+	// Do something custom in io.js
 } else {
-	// and something else in Node.js
+	// And something else in Node.js
 }
 ```
 
 
 ## License
 
-MIT © [Sindre Sorhus](http://sindresorhus.com)
+MIT © [Sindre Sorhus](https://sindresorhus.com)
