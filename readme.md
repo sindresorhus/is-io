@@ -1,3 +1,10 @@
+# Deprecated
+
+[io.js is no more.](https://nodejs.org/en/blog/announcements/foundation-v4-announce/)
+
+---
+
+
 # is-io [![Build Status](https://travis-ci.org/sindresorhus/is-io.svg?branch=master)](https://travis-ci.org/sindresorhus/is-io)
 
 > Check if the runtime is io.js instead of Node.js
